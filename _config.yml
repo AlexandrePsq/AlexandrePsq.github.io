@@ -1,27 +1,21 @@
 # Site settings
 exclude: [README.md,example1.md,example2.md]
-title: Lena Voita
-email: lena-voita@hotmail.com
-github: lena-voita
-twitter: lena_voita
-scholar_id: EcN9o7kAAAAJ
+title: Alexandre PASQUIOU
+email: alexandre.pasquiou@inria.fr
+github: AlexandrePsq
+twitter: a_pasquiou
+scholar_id: MISSING
 description: > # this symbol means ignore newlines until "baseurl:"
-    Hi! I'm Lena and here you will find what I do.
+    Hi! I'm Alexandre. Let me present you my work.
 baseurl: "" # keep blank unless you're using sub-paths
-url: "http://lena-voita.github.io" # the base hostname & protocol for your site
+url: "https://alexandrepsq.github.io/" # the base hostname & protocol for your site
 #paginate: 3
 
 # you can also declare arbitrary key-value data here
-uva_url_lena: "https://msclogic.illc.uva.nl/people/students/"
-uva_url_main: "https://www.illc.uva.nl"
-edn_nlp_people: "https://edinburghnlp.inf.ed.ac.uk/index.php/people/"
-edn_nlp_main: "http://edinburghnlp.inf.ed.ac.uk"
-school_of_informatics: "https://www.ed.ac.uk/informatics"
-yandex_research_people: "https://research.yandex.com/people/"
-yandex_research_main: "https://research.yandex.com"
+unicog_url: "https://joliot.cea.fr/drf/joliot/Pages/Entites_de_recherche/neurospin/UNICOG.aspx"
+mind_url: "https://www.inria.fr/fr/mind"
 
-ivan_page: "http://ivan-titov.org"
-rico_page: "http://homepages.inf.ed.ac.uk/rsennric/"
+christophe_page: "https://pallier.org/"
 
 
 # Build settings
