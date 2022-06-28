@@ -16,7 +16,7 @@ unicog_url: "https://joliot.cea.fr/drf/joliot/Pages/Entites_de_recherche/neurosp
 mind_url: "https://www.inria.fr/fr/mind"
 
 christophe_page: "https://pallier.org/"
-
+bertrand_page: "http://pages.saclay.inria.fr/bertrand.thirion"
 
 # Build settings
 markdown: kramdown

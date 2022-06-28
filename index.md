@@ -1,20 +1,27 @@
 ---
 layout: default
-description: I'm Elena (Lena) Voita and I work on Natural Language Processing. More details inside!
+description: I'm Alexandre Pasquiou and I work in Computational Neurosciences. I
 ---
 
 <!-- (comment) the image below can be found in img folder of this very project-->
 <!--![i_am_a_fox](./img/people/lena_large-min.png){: style="float: right; margin: 0px 20px; width: 180px;" name="fox"}-->
-![i_am_a_fox](./img/people/orange_lena-min.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="fox"}
+![profile_pic](./img/people/profile_pic.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="profile_pic"}
 
 
 <!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/orange_lena-min.jpg';">
 <img src="/img/people/orange_lena-min.jpg" name="readmore_1" width=204px height=240px></a> -->
 
 
-I am Elena (Lena) Voita, a __Ph.D. student__ at the University of Edinburgh supervised by [Ivan Titov]({{site:ivan_page}}) and [Rico Sennrich]({{site.rico_page}}). Currently visiting [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) in Lisbon.
+I am Alexandre Pasquiou, a __Ph.D. student__ at the University of Paris Saclay supervised by [Bertrand Thirion]({{site:bertrand_page}}) and [Christophe Pallier]({{site.christophe_page}}). Currently working at [NeuroSpin](https://joliot.cea.fr/drf/joliot/pages/entites_de_recherche/neurospin/participer-a-la-recherche.aspx) in Paris Saclay.
 
-I'm supported by the [__Facebook PhD Fellowship__](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/) (2020-2022).
+
+I am doing my Ph.D. at [MIND]({{site:mind_url}}) and [UNICOG]({{site:unicog_url}}) in Computational Neurosciences, swimming between Machine Learning and Neurosciences currents.
+
+
+More precisely, my Ph.D. thesis entitled __Deep models for sensory inputs encoding : Application to brain activity analysis__ focuses on understanding how the human brain processes language.
+
+I'm supported by the [__Nametoputhere__](website) (2020-2023).
+
 
 Previously, I was a __research scientist__ at [Yandex Research]({{site.yandex_research_main}}) and worked closely with the [Yandex Translate](https://translate.yandex.com) team<a onMouseOver="document.fox.src='/img/people/foxie.jpeg';" onMouseOut="document.fox.src='/img/people/orange_lena-min.jpg';">.</a>
 I (still) [teach NLP](https://github.com/yandexdataschool/nlp_course) at the [Yandex School of Data Analysis](https://yandexdataschool.com).
