@@ -1,11 +1,11 @@
 ---
 layout: default
-description: I'm Alexandre Pasquiou and I work in Computational Neurosciences. I
+description: I'm Alexandre Pasquiou and I work in Computational Neurosciences.
 ---
 
 <!-- (comment) the image below can be found in img folder of this very project-->
 <!--![i_am_a_fox](./img/people/lena_large-min.png){: style="float: right; margin: 0px 20px; width: 180px;" name="fox"}-->
-![profile_pic](./img/people/profile_pic.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="profile_pic"}
+![profile_pic](./img/people/profile_pic.png){: style="float: right; margin: 0px 20px; width: 180px;" name="profile_pic"}
 
 
 <!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/orange_lena-min.jpg';">
@@ -15,7 +15,7 @@ description: I'm Alexandre Pasquiou and I work in Computational Neurosciences. I
 I am Alexandre Pasquiou, a __Ph.D. student__ at the University of Paris Saclay supervised by [Bertrand Thirion]({{site:bertrand_page}}) and [Christophe Pallier]({{site.christophe_page}}). Currently working at [NeuroSpin](https://joliot.cea.fr/drf/joliot/pages/entites_de_recherche/neurospin/participer-a-la-recherche.aspx) in Paris Saclay.
 
 
-I am doing my Ph.D. at [MIND]({{site:mind_url}}) and [UNICOG]({{site:unicog_url}}) in Computational Neurosciences, swimming between Machine Learning and Neurosciences currents.
+I am doing my Ph.D. at [MIND]({{site:mind_url}}) and [UNICOG]({{site:unicog_url}}) in Computational Neurosciences, at the junction of Machine Learning and Neurosciences.
 
 
 More precisely, my Ph.D. thesis entitled __Deep models for sensory inputs encoding : Application to brain activity analysis__ focuses on understanding how the human brain processes language.
