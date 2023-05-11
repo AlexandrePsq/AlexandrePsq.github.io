@@ -1,0 +1,23 @@
+# Site settings
+exclude:
+    [README.md, example1.md, example2.md, posts.html, talks.html, teaching.html]
+title: Alexandre PASQUIOU
+email: alexandre.pasquiou@inria.fr
+github: AlexandrePsq
+twitter: a_pasquiou
+scholar_id: dwfZz7wAAAAJ
+description: > # this symbol means ignore newlines until "baseurl:"
+    Hi! I'm Alexandre. Let me present you my work.
+baseurl: "" # keep blank unless you're using sub-paths
+url: "https://alexandrepsq.github.io/" # the base hostname & protocol for your site
+#paginate: 3
+
+# you can also declare arbitrary key-value data here
+unicog_url: "https://joliot.cea.fr/drf/joliot/Pages/Entites_de_recherche/neurospin/UNICOG.aspx"
+mind_url: "https://www.inria.fr/fr/mind"
+
+christophe_page: "https://pallier.org/"
+bertrand_page: "http://pages.saclay.inria.fr/bertrand.thirion"
+
+# Build settings
+markdown: kramdown
