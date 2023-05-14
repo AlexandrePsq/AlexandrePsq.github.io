@@ -21,8 +21,6 @@ I work on language and vision processing in deep neural networks and the human b
 
 More precisely, during my Ph.D. thesis entitled __Deciphering the Neural Bases of Language Comprehension Using Latent Linguistic Representations__ I mainly focused on understanding how the human brain processes language and how to decode brain activity.
 
-I'm supported by the [__Nametoputhere__](website) (2020-2023).
-
 My research interests revolve around machine learning, natural language & vision processing, neural architecture search, neurosciences, and more generally Artificial Intelligence for healthcare & biology.
 
 <!---
